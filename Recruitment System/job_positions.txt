@@ -1,0 +1,4 @@
+Content,riting,Everyday,0
+Electical Components,Senior level job to handle system within an organization,Electrical Engineer,0
+Web Developer,Junior web developer with 1 year of experience ,java,0
+Flutter Application Development,Junior level flutter app dev ops required ,1 year of experience,0
